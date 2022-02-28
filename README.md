@@ -16,3 +16,4 @@ The following images represent the functionality of the application
 <img width="1440" alt="Screenshot 2022-02-28 at 14 06 04" src="https://user-images.githubusercontent.com/75396991/155982344-f0c11ee2-c890-40f4-b40a-ed93496cdc38.png">
 <img width="1440" alt="Screenshot 2022-02-28 at 14 07 18" src="https://user-images.githubusercontent.com/75396991/155982350-e9dd06d6-4888-4921-9cbf-7af7aa82193e.png">
 <img width="1440" alt="Screenshot 2022-02-28 at 14 07 27" src="https://user-images.githubusercontent.com/75396991/155982355-eafaab6d-c908-41b1-a964-d5d53309a4e2.png">
+<img width="1440" alt="Screenshot 2022-02-28 at 14 20 11" src="https://user-images.githubusercontent.com/75396991/155982611-1c1ba171-4f43-48ba-a6fb-cb90d7995869.png">
